@@ -1,0 +1,8 @@
+# ignore assets
+/assets export-ignore
+
+# ignore git(hub) files
+/.git* export-ignore
+
+# ignore Netbeans Project Files
+/nbproject export-ignore
