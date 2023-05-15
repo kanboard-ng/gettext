@@ -1,0 +1,33 @@
+{
+    "name": "kanboard-ng/kanboard-gettext",
+    "description": "kanboard gettext plugin",
+    "keywords":  [
+        "kanboard",
+        "kanboard-plugin",
+        "gettext",
+        "translation"
+    ],
+    "homepage": "https://github.com/kanboard-ng/kanboard-gettext",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cpt.Sanifair",
+            "homepage": "https://github.com/cptsanifair"
+        }
+    ],
+    "support": [ 
+        {
+            "issues": "https://github.com/kanboard-ng/kanboard-gettext/issues",
+            "forum": "https://github.com/kanboard-ng/kanboard-gettext/discussions"
+        }
+    ],
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/cptsanifair"
+        }
+    ],
+    "require": {
+        "kanboard-ng/gettext-locale": "dev-main"
+    }
+}

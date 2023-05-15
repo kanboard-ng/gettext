@@ -1,0 +1,70 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5cb2b66d3917b741d2e2690b1e3d56da",
+    "packages": [
+        {
+            "name": "kanboard-ng/gettext-locale",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kanboard-ng/gettext-locale.git",
+                "reference": "7455190a96bab041e9813cd64f3b39db5221bb1f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kanboard-ng/gettext-locale/zipball/7455190a96bab041e9813cd64f3b39db5221bb1f",
+                "reference": "7455190a96bab041e9813cd64f3b39db5221bb1f",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Cpt.Sanifair",
+                    "homepage": "https://github.com/cptsanifair"
+                }
+            ],
+            "description": "kanboard-ng gettext-locales po-files",
+            "homepage": "https://github.com/kanboard-ng/gettext-locale",
+            "keywords": [
+                "Kanboard",
+                "kanboard-ng",
+                "kanboard-plugin",
+                "translation"
+            ],
+            "support": {
+                "0": {
+                    "issues": "https://github.com/kanboard-ng/gettext-locale/issues"
+                },
+                "issues": "https://github.com/kanboard-ng/gettext-locale/issues",
+                "source": "https://github.com/kanboard-ng/gettext-locale/tree/main"
+            },
+            "funding": [
+                {
+                    "url": "https://www.patreon.com/cptsanifair",
+                    "type": "patreon"
+                }
+            ],
+            "time": "2023-05-15T12:57:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "kanboard-ng/gettext-locale": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
